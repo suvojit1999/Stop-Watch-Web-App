@@ -109,7 +109,4 @@ body{
     .container{
         transform: scale(0.80);
     }
-    .main{
-        height: 100vh;
-    }
 }
